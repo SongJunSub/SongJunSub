@@ -1,5 +1,5 @@
-<h1 align="center">안녕하세요 👋, 꼼꼼한 개발자 송준섭입니다🙇‍♂️</h1>
-<h3 align="center">코드의 가독성 향상과 오류 발생 확률 감소를 위한 스타일 가이드를 지키는 것을 추구합니다. 백엔드에 깊은 관심이 있고, 양쪽 영역을 자유자재로 넘나들 수 있는 점이 장점인 6년 차 풀스택 개발자입니다. 사용자의 사용 패턴을 고민하면서 만족감과 편의성 및 신뢰성을 추구하며, 커뮤니케이션을 통한 개발 및 개선 포인트를 찾아 문제 해결을 통하여 성취감과 자부심을 얻는 것을 추구합니다.</h3>
+<h1 align="center">안녕하세요 👋, 백엔드에 깊은 관심이 있는 꼼꼼한 풀스택 개발자 송준섭입니다🙇‍♂️</h1>
+<h3 align="center">사용자의 사용 패턴을 고민하면서 만족감과 편의성 및 신뢰성을 추구하며, 커뮤니케이션을 통한 개발 및 개선 포인트를 찾아 문제 해결을 통하여 성취감과 자부심을 얻는 것을 추구합니다.</h3>
 
 - 🌱 I’m currently learning **MongoDB, Docker**
 
@@ -7,6 +7,7 @@
 
 - 📄 Know about my experiences [https://s911130.notion.site/aeaaea0ea377446880a0a25b9be7945e](https://s911130.notion.site/aeaaea0ea377446880a0a25b9be7945e)
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
