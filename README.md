@@ -2,8 +2,6 @@
 <h4 align="left">사용자의 사용 패턴을 고민하면서 만족감과 편의성 및 신뢰성을 추구하며, 커뮤니케이션을 통한 개발 및 개선 포인트를 찾아 문제 해결을 통하여 성취감과 자부심을 얻는 것을 추구합니다.</h4>
 
 - I’m currently working on "My Memory Space" [https://github.com/SongJunSub/Project-09-MyMemorySpace]
-  
-- 🌱 I’m currently learning **MongoDB, Docker**
 
 - 📫 How to reach me **song911130@gmail.com**
 
