@@ -5,11 +5,13 @@
 <h4 align="left">✅ PO와의 협업을 통하여 정확한 요구사항 분석과 팀원들과의 협업을 통한 개발 과정 구축을 중시합니다.</h4>
 <h4 align="left">✅ 기업의 성장과 발전을 위한 비즈니스적인 이슈 해결을 위해 개발 프로세스와 문화를 개선하려고 노력하는 것을 좋아합니다.</h4>
 
+
 - I’m currently working on "My Memory Space" [https://github.com/SongJunSub/Project-09-MyMemorySpace]
 
 - 📫 How to reach me **song911130@gmail.com**
 
 - 📄 Know about my experiences [https://s911130.notion.site/aeaaea0ea377446880a0a25b9be7945e](https://s911130.notion.site/aeaaea0ea377446880a0a25b9be7945e)
+
 
 <h3 align="left">Back-End</h3>
 <p align="left">
