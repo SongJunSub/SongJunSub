@@ -1,6 +1,5 @@
 <h3 align="left">안녕하세요 👋, 사람을 위해 노력하는 개발자 송준섭입니다🙇‍♂️</h3>
 <h4 align="left">✅ 7년 차 백엔드 중심의 웹 개발자로 호스피탈리티 분야에서 벤지니어 역할을 수행하였습니다.</h4>
-<h4 align="left"> - 호스피탈리티 분야에서 기술적 관점 뿐만 아니라 비즈니스 관점에서 프로젝트를 이해하고 기여하려 노력하였습니다.</h4>
 <h4 align="left">✅ 동료 개발자들의 생산성을 향상시키기 위한 개발을 중요시합니다.</h4>
 <h4 align="left">✅ 사용자의 사용 패턴을 고민하면서 만족감과 편의성 및 신뢰성을 추구하며, 문제 해결을 통하여 성취감과 자부심을 얻는 것을 추구합니다.</h4>
 <h4 align="left">✅ 사용자에게 안정적인 서비스를 제공하기 위해 꼼꼼한 테스트와 코드 리뷰를 통해 리스크를 최소화하기 위해 노력합니다.</h4>
@@ -15,11 +14,8 @@
 - 📄 Know about my experiences [https://s911130.notion.site/aeaaea0ea377446880a0a25b9be7945e](https://s911130.notion.site/aeaaea0ea377446880a0a25b9be7945e)
 
 
-<h3 align="left">Back-End</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-</p>
+<h3 align="left">Programming Language</h3>
+<h4 align="left">Java / JavaScript</h4>
 
 <h3 align="left">Front-End</h3>
 <p align="left">
