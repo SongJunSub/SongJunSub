@@ -1,4 +1,6 @@
 <h3 align="left">안녕하세요 👋, 사람을 위해 노력하는 개발자 송준섭입니다🙇‍♂️</h3>
+<h4 align="left">✅ 7년 차 백엔드 중심의 웹 개발자로 호스피탈리티 분야에서 벤지니어 역할을 수행하였습니다.</h4>
+<h4 align="left"> - 호스피탈리티 분야에서 기술적 관점 뿐만 아니라 비즈니스 관점에서 프로젝트를 이해하고 기여하려 노력하였습니다.</h4>
 <h4 align="left">✅ 동료 개발자들의 생산성을 향상시키기 위한 개발을 중요시합니다.</h4>
 <h4 align="left">✅ 사용자의 사용 패턴을 고민하면서 만족감과 편의성 및 신뢰성을 추구하며, 문제 해결을 통하여 성취감과 자부심을 얻는 것을 추구합니다.</h4>
 <h4 align="left">✅ 사용자에게 안정적인 서비스를 제공하기 위해 꼼꼼한 테스트와 코드 리뷰를 통해 리스크를 최소화하기 위해 노력합니다.</h4>
@@ -6,8 +8,7 @@
 <h4 align="left">✅ 기업의 성장과 발전을 위한 비즈니스적인 이슈 해결을 위해 개발 프로세스와 문화를 개선하려고 노력하는 것을 좋아합니다.</h4>
 
 
-- I’m currently working on "My Memory Space" [https://github.com/SongJunSub/Project-09-MyMemorySpace]
-- I’m currently working on "Micro Service" [https://github.com/SongJunSub/Project-13-MicroService]
+- I’m currently working on "G-Mail Automation With Slack" [https://github.com/SongJunSub/MailAutomationWithSlack]
 
 - 📫 How to reach me **song911130@gmail.com**
 
