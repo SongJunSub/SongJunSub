@@ -7,7 +7,9 @@
 <h4 align="left">✅ 기업의 성장과 발전을 위한 비즈니스적인 이슈 해결을 위해 개발 프로세스와 문화를 개선하려고 노력하는 것을 좋아합니다.</h4>
 
 
-- I’m currently working on "G-Mail Automation With Slack" [https://github.com/SongJunSub/MailAutomationWithSlack]
+- I’m currently working on "G-Mail Automation With Slack" [https://github.com/SongJunSub/MailAutomationWithSlack] 
+
+- I’m currently working on "Kubernetes" [https://github.com/SongJunSub/Kubernetes]
 
 - 📫 How to reach me **song911130@gmail.com**
 
