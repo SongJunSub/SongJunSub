@@ -35,7 +35,7 @@
 <h4 align="left">AWS</h4>
 
 <h3 align="left">ETC</h3>
-<h4 align="left">Git / Jenkins / Docker / Confluence / Jira / Slack / SVN / nGrinder</h4>
+<h4 align="left">Git / Jenkins / Docker / Confluence / Jira / Slack / SVN / nGrinder / Kubernetes</h4>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=songjunsub&show_icons=true&locale=en" alt="songjunsub" /></p>
 
